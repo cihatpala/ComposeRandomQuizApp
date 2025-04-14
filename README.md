@@ -27,8 +27,8 @@ Modern Android quiz uygulaması, Jetpack Compose ve Open Trivia Database API kul
 - **Open Trivia DB**: Soru kaynağı
 
 ## Ekran Görüntüleri 📸
+![quiz app ss](https://github.com/user-attachments/assets/a25c1c3a-8a29-4a80-9bbe-47a23a62fd8f)
 
-[Ekran görüntüleri buraya eklenecek]
 
 ## Kurulum 🚀
 
@@ -83,13 +83,3 @@ app/
 3. Değişikliklerinizi commit edin (`git commit -m 'feat: Add amazing feature'`)
 4. Branch'inizi push edin (`git push origin feature/amazing-feature`)
 5. Pull Request oluşturun
-
-## Lisans 📄
-
-Bu proje MIT lisansı altında lisanslanmıştır - detaylar için [LICENSE](LICENSE) dosyasına bakın.
-
-## İletişim 📬
-
-[İsim] - [@twitter_handle](https://twitter.com/twitter_handle) - email@example.com
-
-Proje Linki: [https://github.com/[kullanıcı-adı]/compose-quiz-app](https://github.com/[kullanıcı-adı]/compose-quiz-app) 
