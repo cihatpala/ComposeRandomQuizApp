@@ -34,7 +34,7 @@ Modern Android quiz uygulaması, Jetpack Compose ve Open Trivia Database API kul
 
 1. Projeyi klonlayın:
 ```bash
-git clone https://github.com/[kullanıcı-adı]/compose-quiz-app.git
+git clone https://github.com/cihatpala/ComposeRandomQuizApp
 ```
 
 2. Android Studio'da açın
