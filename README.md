@@ -5,6 +5,8 @@ Modern Android quiz uygulaması, Jetpack Compose ve Open Trivia Database API kul
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+## Ekran Görüntüleri 📸
+![quiz app ss](https://github.com/user-attachments/assets/a25c1c3a-8a29-4a80-9bbe-47a23a62fd8f)
 
 ## Özellikler ✨
 
@@ -26,8 +28,6 @@ Modern Android quiz uygulaması, Jetpack Compose ve Open Trivia Database API kul
 - **ViewModel**: UI state yönetimi
 - **Open Trivia DB**: Soru kaynağı
 
-## Ekran Görüntüleri 📸
-![quiz app ss](https://github.com/user-attachments/assets/a25c1c3a-8a29-4a80-9bbe-47a23a62fd8f)
 
 
 ## Kurulum 🚀
